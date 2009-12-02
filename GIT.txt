@@ -1,0 +1,16 @@
+Git x Outros
+
+http://pt.whygitisbetterthanx.com/#svn
+http://albertoleal.eti.br/category/git/
+
+
+Git Visual
+http://code.google.com/p/tortoisegit/´
+
+Git Material
+http://wilker-dev.blogspot.com/2009_11_01_archive.html
+http://br.kernelnewbies.org/node/58
+http://www.ibm.com/developerworks/br/linux/library/l-git-subversion-1/index.html#N10091
+http://pt-br.gitready.com/iniciante/2009/01/21/pushing-and-pulling.html
+http://wiki.stoa.usp.br/Git-mini-tutorial
+http://kylecordes.com/2008/04/30/git-windows-go/
